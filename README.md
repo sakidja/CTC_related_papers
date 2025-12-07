@@ -26,4 +26,14 @@ BibTeX:
   publisher={Zenodo},
   doi={10.5281/zenodo.17805651}
 }
+---
+2. The Curvature–Transport Correspondence (CTC) and Its Implications for Cosmic Structure Formation
+
+Author: Ridwan Sakidja (2025)
+
+Download PDF:
+👉 [Sakidja_Manuscript_CTC_COSMO_Preprint.pdf](Sakidja_Manuscript_CTC_COSMO_Preprint.pdf)
+
+Summary:
+This manuscript extends the Curvature–Transport Correspondence to cosmic structure formation. In this framework, curvature arises from the divergence of a gravitational transport flux rather than from material density. Cosmic filaments emerge from spatial variations in divergence, black hole interiors avoid singularities through flux saturation, and the Higgs–Planck hierarchy reflects a transition in curvature-response stiffness. Together, these phenomena appear as manifestations of a single principle: curvature is the geometric response of a medium with finite transport capacity.
 
