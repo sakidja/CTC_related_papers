@@ -23,6 +23,7 @@ The Curvature–Transport Correspondence (CTC) proposes that field curvature acr
 **Author:** Ridwan Sakidja (2025)
 
 **Download PDF:**
+
 👉 [Sakidja_Manuscript_CTC_COSMO_Preprint.pdf](Sakidja_Manuscript_CTC_COSMO_Preprint.pdf)
 
 **DOI:**  
