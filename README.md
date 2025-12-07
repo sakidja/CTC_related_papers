@@ -32,3 +32,6 @@ The Curvature–Transport Correspondence (CTC) proposes that field curvature acr
 **Summary:**
 This manuscript extends the Curvature–Transport Correspondence to cosmic structure formation. In this framework, curvature arises from the divergence of a gravitational transport flux rather than from material density. Cosmic filaments emerge from spatial variations in divergence, black hole interiors avoid singularities through flux saturation, and the Higgs–Planck hierarchy reflects a transition in curvature-response stiffness. Together, these phenomena appear as manifestations of a single principle: curvature is the geometric response of a medium with finite transport capacity.
 
+
+
+
