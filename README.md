@@ -32,6 +32,22 @@ The Curvature–Transport Correspondence (CTC) proposes that field curvature acr
 **Summary:**
 This manuscript extends the Curvature–Transport Correspondence to cosmic structure formation. In this framework, curvature arises from the divergence of a gravitational transport flux rather than from material density. Cosmic filaments emerge from spatial variations in divergence, black hole interiors avoid singularities through flux saturation, and the Higgs–Planck hierarchy reflects a transition in curvature-response stiffness. Together, these phenomena appear as manifestations of a single principle: curvature is the geometric response of a medium with finite transport capacity.
 
+## 3. The Big Start: Cosmogenesis from a Finite Planck-Phase Boundary
+
+**Author:** Ridwan Sakidja (2025)
+
+**Download PDF:**
+
+👉 [Sakidja_Manuscript_Big_Start.pdf](Sakidja_Manuscript_Big_Start.pdf)
+
+**DOI:**  
+👉 https://doi.org/10.5281/zenodo.17844548
+
+**Summary:**
+The standard Big Bang picture assumes that spacetime already exists at the moment of origin and is driven to a singular state of infinite curvature and infinite density. The Curvature Transport Correspondence (CTC) offers a different beginning in which the vacuum is a physical medium with stiffness that controls whether curvature or fields can exist at all. This leads to the Big Start, a finite radius Planck phase vacuum state where gravitational transport is saturated and no geometric degrees of freedom are present. This state is a pre geometric and zero entropy vacuum, directly realizing the insight of Sir Roger Penrose that the Universe must begin in an exceptionally ordered condition. As expansion relaxes vacuum stiffness, the layers of physics appear in sequence: curvature mobility at rG, transverse and quantum modes at rT, Higgs condensation and the appearance of mass at rH, and finally a classical FRW spacetime at rS. Cosmogenesis and gravitational collapse follow the same divergence law in opposite directions, and the Big Start replaces the classical singularity with a natural vacuum phase transition in which spacetime, gravity, quantum behavior, and mass appear only when the vacuum becomes soft enough to support them
+
+
+
 
 
 
