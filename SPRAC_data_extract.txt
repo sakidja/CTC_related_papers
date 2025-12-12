@@ -1,0 +1,1405 @@
+
+Found 175 .dat files in Rotmod_LTG
+
+=== Analyzing CamB ===
+✔ Using file: CamB_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 0.8032, SurplusIndex = 0.0820, mean U = -0.4310
+  R_max = 1.790 kpc,  R_outer_start (0.5 R_max) = 0.895 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 1.790 kpc
+  Saved figure to sparc_figs/CamB.png
+
+=== Analyzing D512-2 ===
+✔ Using file: D512-2_rotmod.dat
+  Raw shape: (4, 8)
+  CurlIndex = 2.1187, SurplusIndex = 0.4777, mean U = 1.5382
+  R_max = 3.830 kpc,  R_outer_start (0.5 R_max) = 1.915 kpc
+  R_core ≈ 3.355 kpc,  R_turnover ≈ 2.880 kpc
+  Saved figure to sparc_figs/D512-2.png
+
+=== Analyzing D564-8 ===
+✔ Using file: D564-8_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 5.2671, SurplusIndex = 0.4442, mean U = 2.5658
+  R_max = 3.070 kpc,  R_outer_start (0.5 R_max) = 1.535 kpc
+  R_core ≈ 2.815 kpc,  R_turnover ≈ 3.070 kpc
+  Saved figure to sparc_figs/D564-8.png
+
+=== Analyzing D631-7 ===
+✔ Using file: D631-7_rotmod.dat
+  Raw shape: (16, 8)
+  CurlIndex = 7.6956, SurplusIndex = 0.5787, mean U = 2.9039
+  R_max = 7.190 kpc,  R_outer_start (0.5 R_max) = 3.595 kpc
+  R_core ≈ 5.165 kpc,  R_turnover ≈ 6.290 kpc
+  Saved figure to sparc_figs/D631-7.png
+
+=== Analyzing DDO064 ===
+✔ Using file: DDO064_rotmod.dat
+  Raw shape: (14, 8)
+  CurlIndex = 1.7389, SurplusIndex = 0.4598, mean U = 2.1818
+  R_max = 2.980 kpc,  R_outer_start (0.5 R_max) = 1.490 kpc
+  R_core ≈ 1.980 kpc,  R_turnover ≈ 2.980 kpc
+  Saved figure to sparc_figs/DDO064.png
+
+=== Analyzing DDO154 ===
+✔ Using file: DDO154_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 6.9568, SurplusIndex = 0.6067, mean U = 3.8253
+  R_max = 5.920 kpc,  R_outer_start (0.5 R_max) = 2.960 kpc
+  R_core ≈ 3.705 kpc,  R_turnover ≈ 4.940 kpc
+  Saved figure to sparc_figs/DDO154.png
+
+=== Analyzing DDO161 ===
+✔ Using file: DDO161_rotmod.dat
+  Raw shape: (31, 8)
+  CurlIndex = 3.0208, SurplusIndex = 0.4980, mean U = 1.3643
+  R_max = 13.370 kpc,  R_outer_start (0.5 R_max) = 6.685 kpc
+  R_core ≈ 5.575 kpc,  R_turnover ≈ 10.520 kpc
+  Saved figure to sparc_figs/DDO161.png
+
+=== Analyzing DDO168 ===
+✔ Using file: DDO168_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 2.8939, SurplusIndex = 0.5572, mean U = 1.5919
+  R_max = 4.120 kpc,  R_outer_start (0.5 R_max) = 2.060 kpc
+  R_core ≈ 2.680 kpc,  R_turnover ≈ 3.710 kpc
+  Saved figure to sparc_figs/DDO168.png
+
+=== Analyzing DDO170 ===
+✔ Using file: DDO170_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 3.3209, SurplusIndex = 0.4871, mean U = 2.2583
+  R_max = 12.330 kpc,  R_outer_start (0.5 R_max) = 6.165 kpc
+  R_core ≈ 7.100 kpc,  R_turnover ≈ 12.330 kpc
+  Saved figure to sparc_figs/DDO170.png
+
+=== Analyzing ESO079-G014 ===
+✔ Using file: ESO079-G014_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 0.8099, SurplusIndex = 0.2899, mean U = 0.4424
+  R_max = 16.670 kpc,  R_outer_start (0.5 R_max) = 8.335 kpc
+  R_core ≈ 1.380 kpc,  R_turnover ≈ 16.670 kpc
+  Saved figure to sparc_figs/ESO079-G014.png
+
+=== Analyzing ESO116-G012 ===
+✔ Using file: ESO116-G012_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 2.5457, SurplusIndex = 0.4282, mean U = 1.2461
+  R_max = 9.860 kpc,  R_outer_start (0.5 R_max) = 4.930 kpc
+  R_core ≈ 2.935 kpc,  R_turnover ≈ 9.860 kpc
+  Saved figure to sparc_figs/ESO116-G012.png
+
+=== Analyzing ESO444-G084 ===
+✔ Using file: ESO444-G084_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 10.5497, SurplusIndex = 0.5868, mean U = 5.7163
+  R_max = 4.440 kpc,  R_outer_start (0.5 R_max) = 2.220 kpc
+  R_core ≈ 2.855 kpc,  R_turnover ≈ 3.390 kpc
+  Saved figure to sparc_figs/ESO444-G084.png
+
+=== Analyzing ESO563-G021 ===
+✔ Using file: ESO563-G021_rotmod.dat
+  Raw shape: (30, 8)
+  CurlIndex = 1.2859, SurplusIndex = 0.2497, mean U = 0.3961
+  R_max = 42.410 kpc,  R_outer_start (0.5 R_max) = 21.205 kpc
+  R_core ≈ 9.350 kpc,  R_turnover ≈ 37.300 kpc
+  Saved figure to sparc_figs/ESO563-G021.png
+
+=== Analyzing F561-1 ===
+✔ Using file: F561-1_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 0.3411, SurplusIndex = 0.0189, mean U = -0.0796
+  R_max = 9.660 kpc,  R_outer_start (0.5 R_max) = 4.830 kpc
+  R_core ≈ 7.255 kpc,  R_turnover ≈ 8.060 kpc
+  Saved figure to sparc_figs/F561-1.png
+
+=== Analyzing F563-1 ===
+✔ Using file: F563-1_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 8.8460, SurplusIndex = 0.5582, mean U = 5.4036
+  R_max = 20.100 kpc,  R_outer_start (0.5 R_max) = 10.050 kpc
+  R_core ≈ 5.070 kpc,  R_turnover ≈ 19.020 kpc
+  Saved figure to sparc_figs/F563-1.png
+
+=== Analyzing F563-V1 ===
+✔ Using file: F563-V1_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 0.2591, SurplusIndex = 0.0021, mean U = 0.0110
+  R_max = 7.870 kpc,  R_outer_start (0.5 R_max) = 3.935 kpc
+  R_core ≈ 4.585 kpc,  R_turnover ≈ 5.240 kpc
+  Saved figure to sparc_figs/F563-V1.png
+
+=== Analyzing F563-V2 ===
+✔ Using file: F563-V2_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 3.7947, SurplusIndex = 0.2542, mean U = 3.6510
+  R_max = 10.470 kpc,  R_outer_start (0.5 R_max) = 5.235 kpc
+  R_core ≈ 3.555 kpc,  R_turnover ≈ 10.180 kpc
+  Saved figure to sparc_figs/F563-V2.png
+
+=== Analyzing F565-V2 ===
+✔ Using file: F565-V2_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 5.3766, SurplusIndex = 0.5854, mean U = 4.4292
+  R_max = 8.800 kpc,  R_outer_start (0.5 R_max) = 4.400 kpc
+  R_core ≈ 5.660 kpc,  R_turnover ≈ 8.800 kpc
+  Saved figure to sparc_figs/F565-V2.png
+
+=== Analyzing F567-2 ===
+✔ Using file: F567-2_rotmod.dat
+  Raw shape: (5, 8)
+  CurlIndex = 0.6302, SurplusIndex = 0.2399, mean U = 0.6589
+  R_max = 9.590 kpc,  R_outer_start (0.5 R_max) = 4.795 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 9.590 kpc
+  Saved figure to sparc_figs/F567-2.png
+
+=== Analyzing F568-1 ===
+✔ Using file: F568-1_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 3.3748, SurplusIndex = 0.4725, mean U = 3.6435
+  R_max = 13.230 kpc,  R_outer_start (0.5 R_max) = 6.615 kpc
+  R_core ≈ 5.185 kpc,  R_turnover ≈ 13.230 kpc
+  Saved figure to sparc_figs/F568-1.png
+
+=== Analyzing F568-3 ===
+✔ Using file: F568-3_rotmod.dat
+  Raw shape: (18, 8)
+  CurlIndex = 2.5449, SurplusIndex = 0.4577, mean U = 1.5297
+  R_max = 17.980 kpc,  R_outer_start (0.5 R_max) = 8.990 kpc
+  R_core ≈ 5.265 kpc,  R_turnover ≈ 17.980 kpc
+  Saved figure to sparc_figs/F568-3.png
+
+=== Analyzing F568-V1 ===
+✔ Using file: F568-V1_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 3.9356, SurplusIndex = 0.4686, mean U = 3.7353
+  R_max = 17.630 kpc,  R_outer_start (0.5 R_max) = 8.815 kpc
+  R_core ≈ 3.915 kpc,  R_turnover ≈ 17.630 kpc
+  Saved figure to sparc_figs/F568-V1.png
+
+=== Analyzing F571-8 ===
+✔ Using file: F571-8_rotmod.dat
+  Raw shape: (13, 8)
+  CurlIndex = 6.0233, SurplusIndex = 0.4576, mean U = 0.9002
+  R_max = 15.550 kpc,  R_outer_start (0.5 R_max) = 7.775 kpc
+  R_core ≈ 3.610 kpc,  R_turnover ≈ 15.550 kpc
+  Saved figure to sparc_figs/F571-8.png
+
+=== Analyzing F571-V1 ===
+✔ Using file: F571-V1_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 3.6902, SurplusIndex = 0.4672, mean U = 2.2435
+  R_max = 13.590 kpc,  R_outer_start (0.5 R_max) = 6.795 kpc
+  R_core ≈ 10.690 kpc,  R_turnover ≈ 11.660 kpc
+  Saved figure to sparc_figs/F571-V1.png
+
+=== Analyzing F574-1 ===
+✔ Using file: F574-1_rotmod.dat
+  Raw shape: (14, 8)
+  CurlIndex = 1.9693, SurplusIndex = 0.4069, mean U = 1.8763
+  R_max = 12.600 kpc,  R_outer_start (0.5 R_max) = 6.300 kpc
+  R_core ≈ 4.695 kpc,  R_turnover ≈ 12.600 kpc
+  Saved figure to sparc_figs/F574-1.png
+
+=== Analyzing F574-2 ===
+✔ Using file: F574-2_rotmod.dat
+  Raw shape: (5, 8)
+  CurlIndex = 0.2225, SurplusIndex = 0.0000, mean U = -0.3808
+  R_max = 10.830 kpc,  R_outer_start (0.5 R_max) = 5.415 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 10.830 kpc
+  Saved figure to sparc_figs/F574-2.png
+
+=== Analyzing F579-V1 ===
+✔ Using file: F579-V1_rotmod.dat
+  Raw shape: (14, 8)
+  CurlIndex = 1.4346, SurplusIndex = 0.3020, mean U = 1.8805
+  R_max = 15.160 kpc,  R_outer_start (0.5 R_max) = 7.580 kpc
+  R_core ≈ 2.475 kpc,  R_turnover ≈ 10.850 kpc
+  Saved figure to sparc_figs/F579-V1.png
+
+=== Analyzing F583-1 ===
+✔ Using file: F583-1_rotmod.dat
+  Raw shape: (25, 8)
+  CurlIndex = 3.1923, SurplusIndex = 0.3908, mean U = 3.6366
+  R_max = 16.260 kpc,  R_outer_start (0.5 R_max) = 8.130 kpc
+  R_core ≈ 0.350 kpc,  R_turnover ≈ 15.490 kpc
+  Saved figure to sparc_figs/F583-1.png
+
+=== Analyzing F583-4 ===
+✔ Using file: F583-4_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 2.9812, SurplusIndex = 0.3896, mean U = 1.3840
+  R_max = 7.290 kpc,  R_outer_start (0.5 R_max) = 3.645 kpc
+  R_core ≈ 1.625 kpc,  R_turnover ≈ 7.290 kpc
+  Saved figure to sparc_figs/F583-4.png
+
+=== Analyzing IC2574 ===
+✔ Using file: IC2574_rotmod.dat
+  Raw shape: (34, 8)
+  CurlIndex = 3.8911, SurplusIndex = 0.5286, mean U = 1.4829
+  R_max = 10.230 kpc,  R_outer_start (0.5 R_max) = 5.115 kpc
+  R_core ≈ 3.555 kpc,  R_turnover ≈ 10.230 kpc
+  Saved figure to sparc_figs/IC2574.png
+
+=== Analyzing IC4202 ===
+✔ Using file: IC4202_rotmod.dat
+  Raw shape: (32, 8)
+  CurlIndex = 1.2920, SurplusIndex = 0.1109, mean U = 0.0490
+  R_max = 25.900 kpc,  R_outer_start (0.5 R_max) = 12.950 kpc
+  R_core ≈ 4.340 kpc,  R_turnover ≈ 14.110 kpc
+  Saved figure to sparc_figs/IC4202.png
+
+=== Analyzing KK98-251 ===
+✔ Using file: KK98-251_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 1.5648, SurplusIndex = 0.4781, mean U = 1.0185
+  R_max = 3.130 kpc,  R_outer_start (0.5 R_max) = 1.565 kpc
+  R_core ≈ 2.260 kpc,  R_turnover ≈ 2.790 kpc
+  Saved figure to sparc_figs/KK98-251.png
+
+=== Analyzing NGC0024 ===
+✔ Using file: NGC0024_rotmod.dat
+  Raw shape: (29, 8)
+  CurlIndex = 3.5194, SurplusIndex = 0.3244, mean U = 1.4121
+  R_max = 11.270 kpc,  R_outer_start (0.5 R_max) = 5.635 kpc
+  R_core ≈ 1.015 kpc,  R_turnover ≈ 11.270 kpc
+  Saved figure to sparc_figs/NGC0024.png
+
+=== Analyzing NGC0055 ===
+✔ Using file: NGC0055_rotmod.dat
+  Raw shape: (21, 8)
+  CurlIndex = 1.3264, SurplusIndex = 0.3886, mean U = 0.8422
+  R_max = 13.500 kpc,  R_outer_start (0.5 R_max) = 6.750 kpc
+  R_core ≈ 5.830 kpc,  R_turnover ≈ 12.890 kpc
+  Saved figure to sparc_figs/NGC0055.png
+
+=== Analyzing NGC0100 ===
+✔ Using file: NGC0100_rotmod.dat
+  Raw shape: (21, 8)
+  CurlIndex = 2.9281, SurplusIndex = 0.4240, mean U = 1.1211
+  R_max = 9.620 kpc,  R_outer_start (0.5 R_max) = 4.810 kpc
+  R_core ≈ 4.110 kpc,  R_turnover ≈ 9.620 kpc
+  Saved figure to sparc_figs/NGC0100.png
+
+=== Analyzing NGC0247 ===
+✔ Using file: NGC0247_rotmod.dat
+  Raw shape: (26, 8)
+  CurlIndex = 2.1217, SurplusIndex = 0.4220, mean U = 1.4680
+  R_max = 14.540 kpc,  R_outer_start (0.5 R_max) = 7.270 kpc
+  R_core ≈ 2.960 kpc,  R_turnover ≈ 14.010 kpc
+  Saved figure to sparc_figs/NGC0247.png
+
+=== Analyzing NGC0289 ===
+✔ Using file: NGC0289_rotmod.dat
+  Raw shape: (28, 8)
+  CurlIndex = 3.7007, SurplusIndex = 0.3139, mean U = 1.0150
+  R_max = 71.120 kpc,  R_outer_start (0.5 R_max) = 35.560 kpc
+  R_core ≈ 2.990 kpc,  R_turnover ≈ 2.520 kpc
+  Saved figure to sparc_figs/NGC0289.png
+
+=== Analyzing NGC0300 ===
+✔ Using file: NGC0300_rotmod.dat
+  Raw shape: (25, 8)
+  CurlIndex = 3.7540, SurplusIndex = 0.4767, mean U = 1.9825
+  R_max = 11.800 kpc,  R_outer_start (0.5 R_max) = 5.900 kpc
+  R_core ≈ 3.855 kpc,  R_turnover ≈ 9.530 kpc
+  Saved figure to sparc_figs/NGC0300.png
+
+=== Analyzing NGC0801 ===
+✔ Using file: NGC0801_rotmod.dat
+  Raw shape: (13, 8)
+  CurlIndex = 0.6835, SurplusIndex = 0.0855, mean U = -0.0862
+  R_max = 59.820 kpc,  R_outer_start (0.5 R_max) = 29.910 kpc
+  R_core ≈ 3.125 kpc,  R_turnover ≈ 3.520 kpc
+  Saved figure to sparc_figs/NGC0801.png
+
+=== Analyzing NGC0891 ===
+✔ Using file: NGC0891_rotmod.dat
+  Raw shape: (18, 8)
+  CurlIndex = 0.9152, SurplusIndex = 0.0050, mean U = -0.2711
+  R_max = 17.110 kpc,  R_outer_start (0.5 R_max) = 8.555 kpc
+  R_core ≈ 1.620 kpc,  R_turnover ≈ 0.920 kpc
+  Saved figure to sparc_figs/NGC0891.png
+
+=== Analyzing NGC1003 ===
+✔ Using file: NGC1003_rotmod.dat
+  Raw shape: (36, 8)
+  CurlIndex = 4.7362, SurplusIndex = 0.4866, mean U = 2.6694
+  R_max = 30.240 kpc,  R_outer_start (0.5 R_max) = 15.120 kpc
+  R_core ≈ 8.285 kpc,  R_turnover ≈ 30.240 kpc
+  Saved figure to sparc_figs/NGC1003.png
+
+=== Analyzing NGC1090 ===
+✔ Using file: NGC1090_rotmod.dat
+  Raw shape: (24, 8)
+  CurlIndex = 1.1728, SurplusIndex = 0.1645, mean U = 0.1795
+  R_max = 30.090 kpc,  R_outer_start (0.5 R_max) = 15.045 kpc
+  R_core ≈ 5.850 kpc,  R_turnover ≈ 11.280 kpc
+  Saved figure to sparc_figs/NGC1090.png
+
+=== Analyzing NGC1705 ===
+✔ Using file: NGC1705_rotmod.dat
+  Raw shape: (14, 8)
+  CurlIndex = 9.3106, SurplusIndex = 0.4087, mean U = 4.2681
+  R_max = 6.000 kpc,  R_outer_start (0.5 R_max) = 3.000 kpc
+  R_core ≈ 1.330 kpc,  R_turnover ≈ 1.550 kpc
+  Saved figure to sparc_figs/NGC1705.png
+
+=== Analyzing NGC2366 ===
+✔ Using file: NGC2366_rotmod.dat
+  Raw shape: (26, 8)
+  CurlIndex = 2.3878, SurplusIndex = 0.4312, mean U = 1.2291
+  R_max = 6.060 kpc,  R_outer_start (0.5 R_max) = 3.030 kpc
+  R_core ≈ 2.855 kpc,  R_turnover ≈ 4.160 kpc
+  Saved figure to sparc_figs/NGC2366.png
+
+=== Analyzing NGC2403 ===
+✔ Using file: NGC2403_rotmod.dat
+  Raw shape: (73, 8)
+  CurlIndex = 3.7953, SurplusIndex = 0.4047, mean U = 0.9576
+  R_max = 20.870 kpc,  R_outer_start (0.5 R_max) = 10.435 kpc
+  R_core ≈ 0.910 kpc,  R_turnover ≈ 17.390 kpc
+  Saved figure to sparc_figs/NGC2403.png
+
+=== Analyzing NGC2683 ===
+✔ Using file: NGC2683_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 2.5989, SurplusIndex = 0.1853, mean U = 0.4090
+  R_max = 34.620 kpc,  R_outer_start (0.5 R_max) = 17.310 kpc
+  R_core ≈ 7.215 kpc,  R_turnover ≈ 5.770 kpc
+  Saved figure to sparc_figs/NGC2683.png
+
+=== Analyzing NGC2841 ===
+✔ Using file: NGC2841_rotmod.dat
+  Raw shape: (50, 8)
+  CurlIndex = 4.4031, SurplusIndex = 0.3413, mean U = 1.1655
+  R_max = 63.640 kpc,  R_outer_start (0.5 R_max) = 31.820 kpc
+  R_core ≈ 4.635 kpc,  R_turnover ≈ 8.570 kpc
+  Saved figure to sparc_figs/NGC2841.png
+
+=== Analyzing NGC2903 ===
+✔ Using file: NGC2903_rotmod.dat
+  Raw shape: (34, 8)
+  CurlIndex = 1.8107, SurplusIndex = 0.1790, mean U = 0.0446
+  R_max = 24.960 kpc,  R_outer_start (0.5 R_max) = 12.480 kpc
+  R_core ≈ 2.080 kpc,  R_turnover ≈ 3.840 kpc
+  Saved figure to sparc_figs/NGC2903.png
+
+=== Analyzing NGC2915 ===
+✔ Using file: NGC2915_rotmod.dat
+  Raw shape: (30, 8)
+  CurlIndex = 12.4891, SurplusIndex = 0.5286, mean U = 6.0559
+  R_max = 10.040 kpc,  R_outer_start (0.5 R_max) = 5.020 kpc
+  R_core ≈ 0.835 kpc,  R_turnover ≈ 10.040 kpc
+  Saved figure to sparc_figs/NGC2915.png
+
+=== Analyzing NGC2955 ===
+✔ Using file: NGC2955_rotmod.dat
+  Raw shape: (24, 8)
+  CurlIndex = 0.8042, SurplusIndex = 0.0394, mean U = -0.1755
+  R_max = 35.430 kpc,  R_outer_start (0.5 R_max) = 17.715 kpc
+  R_core ≈ 3.455 kpc,  R_turnover ≈ 12.400 kpc
+  Saved figure to sparc_figs/NGC2955.png
+
+=== Analyzing NGC2976 ===
+✔ Using file: NGC2976_rotmod.dat
+  Raw shape: (27, 8)
+  CurlIndex = 0.4630, SurplusIndex = 0.0355, mean U = -0.1293
+  R_max = 2.270 kpc,  R_outer_start (0.5 R_max) = 1.135 kpc
+  R_core ≈ 0.485 kpc,  R_turnover ≈ 2.100 kpc
+  Saved figure to sparc_figs/NGC2976.png
+
+=== Analyzing NGC2998 ===
+✔ Using file: NGC2998_rotmod.dat
+  Raw shape: (13, 8)
+  CurlIndex = 0.9728, SurplusIndex = 0.1973, mean U = 0.6058
+  R_max = 42.280 kpc,  R_outer_start (0.5 R_max) = 21.140 kpc
+  R_core ≈ 5.610 kpc,  R_turnover ≈ 12.500 kpc
+  Saved figure to sparc_figs/NGC2998.png
+
+=== Analyzing NGC3109 ===
+✔ Using file: NGC3109_rotmod.dat
+  Raw shape: (25, 8)
+  CurlIndex = 7.2159, SurplusIndex = 0.6495, mean U = 4.7095
+  R_max = 6.450 kpc,  R_outer_start (0.5 R_max) = 3.225 kpc
+  R_core ≈ 2.450 kpc,  R_turnover ≈ 6.450 kpc
+  Saved figure to sparc_figs/NGC3109.png
+
+=== Analyzing NGC3198 ===
+✔ Using file: NGC3198_rotmod.dat
+  Raw shape: (43, 8)
+  CurlIndex = 2.5905, SurplusIndex = 0.3489, mean U = 0.6184
+  R_max = 44.080 kpc,  R_outer_start (0.5 R_max) = 22.040 kpc
+  R_core ≈ 0.800 kpc,  R_turnover ≈ 14.050 kpc
+  Saved figure to sparc_figs/NGC3198.png
+
+=== Analyzing NGC3521 ===
+✔ Using file: NGC3521_rotmod.dat
+  Raw shape: (41, 8)
+  CurlIndex = 1.5271, SurplusIndex = 0.1148, mean U = -0.2777
+  R_max = 17.740 kpc,  R_outer_start (0.5 R_max) = 8.870 kpc
+  R_core ≈ 1.115 kpc,  R_turnover ≈ 4.120 kpc
+  Saved figure to sparc_figs/NGC3521.png
+
+=== Analyzing NGC3726 ===
+✔ Using file: NGC3726_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 1.7410, SurplusIndex = 0.1921, mean U = 0.1860
+  R_max = 32.520 kpc,  R_outer_start (0.5 R_max) = 16.260 kpc
+  R_core ≈ 9.595 kpc,  R_turnover ≈ 30.080 kpc
+  Saved figure to sparc_figs/NGC3726.png
+
+=== Analyzing NGC3741 ===
+✔ Using file: NGC3741_rotmod.dat
+  Raw shape: (21, 8)
+  CurlIndex = 12.6343, SurplusIndex = 0.6140, mean U = 6.5723
+  R_max = 7.000 kpc,  R_outer_start (0.5 R_max) = 3.500 kpc
+  R_core ≈ 1.050 kpc,  R_turnover ≈ 7.000 kpc
+  Saved figure to sparc_figs/NGC3741.png
+
+=== Analyzing NGC3769 ===
+✔ Using file: NGC3769_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 6.1978, SurplusIndex = 0.1106, mean U = 1.0161
+  R_max = 37.160 kpc,  R_outer_start (0.5 R_max) = 18.580 kpc
+  R_core ≈ 7.850 kpc,  R_turnover ≈ 8.720 kpc
+  Saved figure to sparc_figs/NGC3769.png
+
+=== Analyzing NGC3877 ===
+✔ Using file: NGC3877_rotmod.dat
+  Raw shape: (13, 8)
+  CurlIndex = 0.4329, SurplusIndex = 0.0000, mean U = -0.2294
+  R_max = 11.350 kpc,  R_outer_start (0.5 R_max) = 5.675 kpc
+  R_core ≈ 3.935 kpc,  R_turnover ≈ 8.720 kpc
+  Saved figure to sparc_figs/NGC3877.png
+
+=== Analyzing NGC3893 ===
+✔ Using file: NGC3893_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 1.3931, SurplusIndex = 0.1618, mean U = 0.1851
+  R_max = 19.050 kpc,  R_outer_start (0.5 R_max) = 9.525 kpc
+  R_core ≈ 6.110 kpc,  R_turnover ≈ 5.240 kpc
+  Saved figure to sparc_figs/NGC3893.png
+
+=== Analyzing NGC3917 ===
+✔ Using file: NGC3917_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 1.0165, SurplusIndex = 0.2541, mean U = 0.5186
+  R_max = 14.860 kpc,  R_outer_start (0.5 R_max) = 7.430 kpc
+  R_core ≈ 3.935 kpc,  R_turnover ≈ 13.940 kpc
+  Saved figure to sparc_figs/NGC3917.png
+
+=== Analyzing NGC3949 ===
+✔ Using file: NGC3949_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 0.8430, SurplusIndex = 0.0086, mean U = -0.2522
+  R_max = 7.070 kpc,  R_outer_start (0.5 R_max) = 3.535 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 7.070 kpc
+  Saved figure to sparc_figs/NGC3949.png
+
+=== Analyzing NGC3953 ===
+✔ Using file: NGC3953_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 0.2559, SurplusIndex = 0.0000, mean U = -0.1437
+  R_max = 15.680 kpc,  R_outer_start (0.5 R_max) = 7.840 kpc
+  R_core ≈ 9.595 kpc,  R_turnover ≈ 10.470 kpc
+  Saved figure to sparc_figs/NGC3953.png
+
+=== Analyzing NGC3972 ===
+✔ Using file: NGC3972_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 0.8798, SurplusIndex = 0.2360, mean U = 0.4175
+  R_max = 8.720 kpc,  R_outer_start (0.5 R_max) = 4.360 kpc
+  R_core ≈ 7.415 kpc,  R_turnover ≈ 7.850 kpc
+  Saved figure to sparc_figs/NGC3972.png
+
+=== Analyzing NGC3992 ===
+✔ Using file: NGC3992_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 1.5854, SurplusIndex = 0.2046, mean U = 0.5838
+  R_max = 46.020 kpc,  R_outer_start (0.5 R_max) = 23.010 kpc
+  R_core ≈ 20.645 kpc,  R_turnover ≈ 18.350 kpc
+  Saved figure to sparc_figs/NGC3992.png
+
+=== Analyzing NGC4010 ===
+✔ Using file: NGC4010_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 0.7473, SurplusIndex = 0.2333, mean U = 0.2061
+  R_max = 10.470 kpc,  R_outer_start (0.5 R_max) = 5.235 kpc
+  R_core ≈ 7.415 kpc,  R_turnover ≈ 7.850 kpc
+  Saved figure to sparc_figs/NGC4010.png
+
+=== Analyzing NGC4013 ===
+✔ Using file: NGC4013_rotmod.dat
+  Raw shape: (36, 8)
+  CurlIndex = 3.2762, SurplusIndex = 0.2463, mean U = 0.4953
+  R_max = 31.010 kpc,  R_outer_start (0.5 R_max) = 15.505 kpc
+  R_core ≈ 5.830 kpc,  R_turnover ≈ 5.490 kpc
+  Saved figure to sparc_figs/NGC4013.png
+
+=== Analyzing NGC4051 ===
+✔ Using file: NGC4051_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 0.4016, SurplusIndex = 0.0000, mean U = -0.2896
+  R_max = 12.190 kpc,  R_outer_start (0.5 R_max) = 6.095 kpc
+  R_core ≈ 2.620 kpc,  R_turnover ≈ 8.720 kpc
+  Saved figure to sparc_figs/NGC4051.png
+
+=== Analyzing NGC4068 ===
+✔ Using file: NGC4068_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 0.8463, SurplusIndex = 0.2540, mean U = 0.1263
+  R_max = 2.330 kpc,  R_outer_start (0.5 R_max) = 1.165 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 2.330 kpc
+  Saved figure to sparc_figs/NGC4068.png
+
+=== Analyzing NGC4085 ===
+✔ Using file: NGC4085_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 0.3677, SurplusIndex = 0.0000, mean U = -0.3879
+  R_max = 6.200 kpc,  R_outer_start (0.5 R_max) = 3.100 kpc
+  R_core ≈ 4.015 kpc,  R_turnover ≈ 6.200 kpc
+  Saved figure to sparc_figs/NGC4085.png
+
+=== Analyzing NGC4088 ===
+✔ Using file: NGC4088_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 0.9504, SurplusIndex = 0.0092, mean U = -0.3311
+  R_max = 21.480 kpc,  R_outer_start (0.5 R_max) = 10.740 kpc
+  R_core ≈ 7.850 kpc,  R_turnover ≈ 8.720 kpc
+  Saved figure to sparc_figs/NGC4088.png
+
+=== Analyzing NGC4100 ===
+✔ Using file: NGC4100_rotmod.dat
+  Raw shape: (24, 8)
+  CurlIndex = 1.6266, SurplusIndex = 0.1907, mean U = 0.3877
+  R_max = 22.760 kpc,  R_outer_start (0.5 R_max) = 11.380 kpc
+  R_core ≈ 6.545 kpc,  R_turnover ≈ 7.850 kpc
+  Saved figure to sparc_figs/NGC4100.png
+
+=== Analyzing NGC4138 ===
+✔ Using file: NGC4138_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 4.0802, SurplusIndex = 0.1380, mean U = 0.3145
+  R_max = 18.580 kpc,  R_outer_start (0.5 R_max) = 9.290 kpc
+  R_core ≈ 6.545 kpc,  R_turnover ≈ 5.240 kpc
+  Saved figure to sparc_figs/NGC4138.png
+
+=== Analyzing NGC4157 ===
+✔ Using file: NGC4157_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 1.4548, SurplusIndex = 0.1345, mean U = 0.0566
+  R_max = 29.610 kpc,  R_outer_start (0.5 R_max) = 14.805 kpc
+  R_core ≈ 6.110 kpc,  R_turnover ≈ 6.980 kpc
+  Saved figure to sparc_figs/NGC4157.png
+
+=== Analyzing NGC4183 ===
+✔ Using file: NGC4183_rotmod.dat
+  Raw shape: (23, 8)
+  CurlIndex = 2.1295, SurplusIndex = 0.3196, mean U = 1.1437
+  R_max = 21.020 kpc,  R_outer_start (0.5 R_max) = 10.510 kpc
+  R_core ≈ 4.805 kpc,  R_turnover ≈ 9.600 kpc
+  Saved figure to sparc_figs/NGC4183.png
+
+=== Analyzing NGC4214 ===
+✔ Using file: NGC4214_rotmod.dat
+  Raw shape: (14, 8)
+  CurlIndex = 5.2104, SurplusIndex = 0.3985, mean U = 2.3091
+  R_max = 5.630 kpc,  R_outer_start (0.5 R_max) = 2.815 kpc
+  R_core ≈ 2.925 kpc,  R_turnover ≈ 5.220 kpc
+  Saved figure to sparc_figs/NGC4214.png
+
+=== Analyzing NGC4217 ===
+✔ Using file: NGC4217_rotmod.dat
+  Raw shape: (19, 8)
+  CurlIndex = 1.2316, SurplusIndex = 0.0487, mean U = -0.2358
+  R_max = 16.720 kpc,  R_outer_start (0.5 R_max) = 8.360 kpc
+  R_core ≈ 3.935 kpc,  R_turnover ≈ 9.600 kpc
+  Saved figure to sparc_figs/NGC4217.png
+
+=== Analyzing NGC4389 ===
+✔ Using file: NGC4389_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 0.6994, SurplusIndex = 0.0000, mean U = -0.6837
+  R_max = 5.320 kpc,  R_outer_start (0.5 R_max) = 2.660 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 5.320 kpc
+  Saved figure to sparc_figs/NGC4389.png
+
+=== Analyzing NGC4559 ===
+✔ Using file: NGC4559_rotmod.dat
+  Raw shape: (32, 8)
+  CurlIndex = 1.2937, SurplusIndex = 0.2576, mean U = 0.3676
+  R_max = 20.970 kpc,  R_outer_start (0.5 R_max) = 10.485 kpc
+  R_core ≈ 4.255 kpc,  R_turnover ≈ 14.380 kpc
+  Saved figure to sparc_figs/NGC4559.png
+
+=== Analyzing NGC5005 ===
+✔ Using file: NGC5005_rotmod.dat
+  Raw shape: (18, 8)
+  CurlIndex = 0.3260, SurplusIndex = 0.0000, mean U = -0.3107
+  R_max = 11.470 kpc,  R_outer_start (0.5 R_max) = 5.735 kpc
+  R_core ≈ 1.225 kpc,  R_turnover ≈ 8.190 kpc
+  Saved figure to sparc_figs/NGC5005.png
+
+=== Analyzing NGC5033 ===
+✔ Using file: NGC5033_rotmod.dat
+  Raw shape: (22, 8)
+  CurlIndex = 2.7925, SurplusIndex = 0.2439, mean U = 0.6709
+  R_max = 44.590 kpc,  R_outer_start (0.5 R_max) = 22.295 kpc
+  R_core ≈ 4.565 kpc,  R_turnover ≈ 6.850 kpc
+  Saved figure to sparc_figs/NGC5033.png
+
+=== Analyzing NGC5055 ===
+✔ Using file: NGC5055_rotmod.dat
+  Raw shape: (28, 8)
+  CurlIndex = 1.5097, SurplusIndex = 0.1862, mean U = 0.0642
+  R_max = 54.590 kpc,  R_outer_start (0.5 R_max) = 27.295 kpc
+  R_core ≈ 3.230 kpc,  R_turnover ≈ 7.910 kpc
+  Saved figure to sparc_figs/NGC5055.png
+
+=== Analyzing NGC5371 ===
+✔ Using file: NGC5371_rotmod.dat
+  Raw shape: (19, 8)
+  CurlIndex = 0.7119, SurplusIndex = 0.0143, mean U = -0.1812
+  R_max = 46.240 kpc,  R_outer_start (0.5 R_max) = 23.120 kpc
+  R_core ≈ 2.165 kpc,  R_turnover ≈ 17.280 kpc
+  Saved figure to sparc_figs/NGC5371.png
+
+=== Analyzing NGC5585 ===
+✔ Using file: NGC5585_rotmod.dat
+  Raw shape: (24, 8)
+  CurlIndex = 2.4692, SurplusIndex = 0.4478, mean U = 0.7169
+  R_max = 10.960 kpc,  R_outer_start (0.5 R_max) = 5.480 kpc
+  R_core ≈ 0.515 kpc,  R_turnover ≈ 8.900 kpc
+  Saved figure to sparc_figs/NGC5585.png
+
+=== Analyzing NGC5907 ===
+✔ Using file: NGC5907_rotmod.dat
+  Raw shape: (19, 8)
+  CurlIndex = 1.7128, SurplusIndex = 0.2080, mean U = 0.5235
+  R_max = 50.330 kpc,  R_outer_start (0.5 R_max) = 25.165 kpc
+  R_core ≈ 11.325 kpc,  R_turnover ≈ 10.070 kpc
+  Saved figure to sparc_figs/NGC5907.png
+
+=== Analyzing NGC5985 ===
+✔ Using file: NGC5985_rotmod.dat
+  Raw shape: (33, 8)
+  CurlIndex = 1.4575, SurplusIndex = 0.2738, mean U = 0.9441
+  R_max = 34.720 kpc,  R_outer_start (0.5 R_max) = 17.360 kpc
+  R_core ≈ 8.405 kpc,  R_turnover ≈ 13.390 kpc
+  Saved figure to sparc_figs/NGC5985.png
+
+=== Analyzing NGC6015 ===
+✔ Using file: NGC6015_rotmod.dat
+  Raw shape: (44, 8)
+  CurlIndex = 3.0836, SurplusIndex = 0.3421, mean U = 0.9063
+  R_max = 29.230 kpc,  R_outer_start (0.5 R_max) = 14.615 kpc
+  R_core ≈ 1.485 kpc,  R_turnover ≈ 21.040 kpc
+  Saved figure to sparc_figs/NGC6015.png
+
+=== Analyzing NGC6195 ===
+✔ Using file: NGC6195_rotmod.dat
+  Raw shape: (23, 8)
+  CurlIndex = 0.6404, SurplusIndex = 0.0174, mean U = -0.2380
+  R_max = 36.430 kpc,  R_outer_start (0.5 R_max) = 18.215 kpc
+  R_core ≈ 3.835 kpc,  R_turnover ≈ 19.100 kpc
+  Saved figure to sparc_figs/NGC6195.png
+
+=== Analyzing NGC6503 ===
+✔ Using file: NGC6503_rotmod.dat
+  Raw shape: (31, 8)
+  CurlIndex = 4.8445, SurplusIndex = 0.3518, mean U = 1.4445
+  R_max = 23.500 kpc,  R_outer_start (0.5 R_max) = 11.750 kpc
+  R_core ≈ 4.170 kpc,  R_turnover ≈ 3.790 kpc
+  Saved figure to sparc_figs/NGC6503.png
+
+=== Analyzing NGC6674 ===
+✔ Using file: NGC6674_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 3.1926, SurplusIndex = 0.2852, mean U = 1.1939
+  R_max = 72.410 kpc,  R_outer_start (0.5 R_max) = 36.205 kpc
+  R_core ≈ 14.995 kpc,  R_turnover ≈ 12.540 kpc
+  Saved figure to sparc_figs/NGC6674.png
+
+=== Analyzing NGC6789 ===
+✔ Using file: NGC6789_rotmod.dat
+  Raw shape: (4, 8)
+  CurlIndex = 4.8116, SurplusIndex = 0.4625, mean U = 2.8941
+  R_max = 0.710 kpc,  R_outer_start (0.5 R_max) = 0.355 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 0.710 kpc
+  Saved figure to sparc_figs/NGC6789.png
+
+=== Analyzing NGC6946 ===
+✔ Using file: NGC6946_rotmod.dat
+  Raw shape: (58, 8)
+  CurlIndex = 1.0677, SurplusIndex = 0.0778, mean U = -0.0480
+  R_max = 20.400 kpc,  R_outer_start (0.5 R_max) = 10.200 kpc
+  R_core ≈ 0.375 kpc,  R_turnover ≈ 6.920 kpc
+  Saved figure to sparc_figs/NGC6946.png
+
+=== Analyzing NGC7331 ===
+✔ Using file: NGC7331_rotmod.dat
+  Raw shape: (36, 8)
+  CurlIndex = 1.5643, SurplusIndex = 0.0913, mean U = -0.0993
+  R_max = 36.310 kpc,  R_outer_start (0.5 R_max) = 18.155 kpc
+  R_core ≈ 4.005 kpc,  R_turnover ≈ 5.350 kpc
+  Saved figure to sparc_figs/NGC7331.png
+
+=== Analyzing NGC7793 ===
+✔ Using file: NGC7793_rotmod.dat
+  Raw shape: (46, 8)
+  CurlIndex = 1.0183, SurplusIndex = 0.2138, mean U = 0.0263
+  R_max = 7.870 kpc,  R_outer_start (0.5 R_max) = 3.935 kpc
+  R_core ≈ 0.475 kpc,  R_turnover ≈ 4.200 kpc
+  Saved figure to sparc_figs/NGC7793.png
+
+=== Analyzing NGC7814 ===
+✔ Using file: NGC7814_rotmod.dat
+  Raw shape: (18, 8)
+  CurlIndex = 2.6321, SurplusIndex = 0.2110, mean U = 0.4915
+  R_max = 19.530 kpc,  R_outer_start (0.5 R_max) = 9.765 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 0.630 kpc
+  Saved figure to sparc_figs/NGC7814.png
+
+=== Analyzing PGC51017 ===
+✔ Using file: PGC51017_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 0.3004, SurplusIndex = 0.0000, mean U = 0.1142
+  R_max = 3.630 kpc,  R_outer_start (0.5 R_max) = 1.815 kpc
+  R_core ≈ 0.660 kpc,  R_turnover ≈ 0.330 kpc
+  Saved figure to sparc_figs/PGC51017.png
+
+=== Analyzing UGC00128 ===
+✔ Using file: UGC00128_rotmod.dat
+  Raw shape: (22, 8)
+  CurlIndex = 6.0181, SurplusIndex = 0.4423, mean U = 3.5947
+  R_max = 53.750 kpc,  R_outer_start (0.5 R_max) = 26.875 kpc
+  R_core ≈ 10.005 kpc,  R_turnover ≈ 46.280 kpc
+  Saved figure to sparc_figs/UGC00128.png
+
+=== Analyzing UGC00191 ===
+✔ Using file: UGC00191_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 2.1211, SurplusIndex = 0.2179, mean U = 1.3884
+  R_max = 9.980 kpc,  R_outer_start (0.5 R_max) = 4.990 kpc
+  R_core ≈ 3.635 kpc,  R_turnover ≈ 9.980 kpc
+  Saved figure to sparc_figs/UGC00191.png
+
+=== Analyzing UGC00634 ===
+✔ Using file: UGC00634_rotmod.dat
+  Raw shape: (4, 8)
+  CurlIndex = 5.5971, SurplusIndex = 0.5822, mean U = 2.8678
+  R_max = 18.010 kpc,  R_outer_start (0.5 R_max) = 9.005 kpc
+  R_core ≈ 15.760 kpc,  R_turnover ≈ 13.510 kpc
+  Saved figure to sparc_figs/UGC00634.png
+
+=== Analyzing UGC00731 ===
+✔ Using file: UGC00731_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 2.6481, SurplusIndex = 0.4470, mean U = 6.3652
+  R_max = 10.910 kpc,  R_outer_start (0.5 R_max) = 5.455 kpc
+  R_core ≈ 7.735 kpc,  R_turnover ≈ 9.090 kpc
+  Saved figure to sparc_figs/UGC00731.png
+
+=== Analyzing UGC00891 ===
+✔ Using file: UGC00891_rotmod.dat
+  Raw shape: (5, 8)
+  CurlIndex = 5.1727, SurplusIndex = 0.5092, mean U = 2.4903
+  R_max = 7.390 kpc,  R_outer_start (0.5 R_max) = 3.695 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 7.390 kpc
+  Saved figure to sparc_figs/UGC00891.png
+
+=== Analyzing UGC01230 ===
+✔ Using file: UGC01230_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 2.8189, SurplusIndex = 0.2165, mean U = 2.0828
+  R_max = 36.540 kpc,  R_outer_start (0.5 R_max) = 18.270 kpc
+  R_core ≈ 6.255 kpc,  R_turnover ≈ 14.850 kpc
+  Saved figure to sparc_figs/UGC01230.png
+
+=== Analyzing UGC01281 ===
+✔ Using file: UGC01281_rotmod.dat
+  Raw shape: (25, 8)
+  CurlIndex = 3.4373, SurplusIndex = 0.5964, mean U = 1.8661
+  R_max = 4.990 kpc,  R_outer_start (0.5 R_max) = 2.495 kpc
+  R_core ≈ 3.265 kpc,  R_turnover ≈ 4.990 kpc
+  Saved figure to sparc_figs/UGC01281.png
+
+=== Analyzing UGC02023 ===
+✔ Using file: UGC02023_rotmod.dat
+  Raw shape: (5, 8)
+  CurlIndex = 1.0293, SurplusIndex = 0.2500, mean U = 0.1942
+  R_max = 3.780 kpc,  R_outer_start (0.5 R_max) = 1.890 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 3.780 kpc
+  Saved figure to sparc_figs/UGC02023.png
+
+=== Analyzing UGC02259 ===
+✔ Using file: UGC02259_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 3.2372, SurplusIndex = 0.4677, mean U = 2.8751
+  R_max = 8.140 kpc,  R_outer_start (0.5 R_max) = 4.070 kpc
+  R_core ≈ 3.560 kpc,  R_turnover ≈ 8.140 kpc
+  Saved figure to sparc_figs/UGC02259.png
+
+=== Analyzing UGC02455 ===
+✔ Using file: UGC02455_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 0.8272, SurplusIndex = 0.0000, mean U = -0.6979
+  R_max = 4.030 kpc,  R_outer_start (0.5 R_max) = 2.015 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 4.030 kpc
+  Saved figure to sparc_figs/UGC02455.png
+
+=== Analyzing UGC02487 ===
+✔ Using file: UGC02487_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 3.2529, SurplusIndex = 0.3276, mean U = 1.2074
+  R_max = 80.380 kpc,  R_outer_start (0.5 R_max) = 40.190 kpc
+  R_core ≈ 9.990 kpc,  R_turnover ≈ 30.140 kpc
+  Saved figure to sparc_figs/UGC02487.png
+
+=== Analyzing UGC02885 ===
+✔ Using file: UGC02885_rotmod.dat
+  Raw shape: (19, 8)
+  CurlIndex = 1.6886, SurplusIndex = 0.2675, mean U = 0.6489
+  R_max = 74.070 kpc,  R_outer_start (0.5 R_max) = 37.035 kpc
+  R_core ≈ 2.555 kpc,  R_turnover ≈ 1.700 kpc
+  Saved figure to sparc_figs/UGC02885.png
+
+=== Analyzing UGC02916 ===
+✔ Using file: UGC02916_rotmod.dat
+  Raw shape: (43, 8)
+  CurlIndex = 1.0380, SurplusIndex = 0.1517, mean U = -0.0263
+  R_max = 38.000 kpc,  R_outer_start (0.5 R_max) = 19.000 kpc
+  R_core ≈ 2.025 kpc,  R_turnover ≈ 8.510 kpc
+  Saved figure to sparc_figs/UGC02916.png
+
+=== Analyzing UGC02953 ===
+✔ Using file: UGC02953_rotmod.dat
+  Raw shape: (115, 8)
+  CurlIndex = 2.3149, SurplusIndex = 0.2777, mean U = 0.3114
+  R_max = 62.390 kpc,  R_outer_start (0.5 R_max) = 31.195 kpc
+  R_core ≈ 0.130 kpc,  R_turnover ≈ 8.250 kpc
+  Saved figure to sparc_figs/UGC02953.png
+
+=== Analyzing UGC03205 ===
+✔ Using file: UGC03205_rotmod.dat
+  Raw shape: (48, 8)
+  CurlIndex = 2.0965, SurplusIndex = 0.2550, mean U = 0.2874
+  R_max = 40.040 kpc,  R_outer_start (0.5 R_max) = 20.020 kpc
+  R_core ≈ 4.290 kpc,  R_turnover ≈ 5.800 kpc
+  Saved figure to sparc_figs/UGC03205.png
+
+=== Analyzing UGC03546 ===
+✔ Using file: UGC03546_rotmod.dat
+  Raw shape: (30, 8)
+  CurlIndex = 1.5983, SurplusIndex = 0.1728, mean U = -0.1126
+  R_max = 29.230 kpc,  R_outer_start (0.5 R_max) = 14.615 kpc
+  R_core ≈ 0.710 kpc,  R_turnover ≈ 0.630 kpc
+  Saved figure to sparc_figs/UGC03546.png
+
+=== Analyzing UGC03580 ===
+✔ Using file: UGC03580_rotmod.dat
+  Raw shape: (47, 8)
+  CurlIndex = 3.6906, SurplusIndex = 0.4307, mean U = 0.2031
+  R_max = 27.060 kpc,  R_outer_start (0.5 R_max) = 13.530 kpc
+  R_core ≈ 0.400 kpc,  R_turnover ≈ 21.020 kpc
+  Saved figure to sparc_figs/UGC03580.png
+
+=== Analyzing UGC04278 ===
+✔ Using file: UGC04278_rotmod.dat
+  Raw shape: (25, 8)
+  CurlIndex = 2.2364, SurplusIndex = 0.5748, mean U = 1.7650
+  R_max = 6.690 kpc,  R_outer_start (0.5 R_max) = 3.345 kpc
+  R_core ≈ 1.110 kpc,  R_turnover ≈ 6.690 kpc
+  Saved figure to sparc_figs/UGC04278.png
+
+=== Analyzing UGC04305 ===
+✔ Using file: UGC04305_rotmod.dat
+  Raw shape: (22, 8)
+  CurlIndex = 0.7747, SurplusIndex = 0.0000, mean U = -0.1614
+  R_max = 5.520 kpc,  R_outer_start (0.5 R_max) = 2.760 kpc
+  R_core ≈ 1.630 kpc,  R_turnover ≈ 2.010 kpc
+  Saved figure to sparc_figs/UGC04305.png
+
+=== Analyzing UGC04325 ===
+✔ Using file: UGC04325_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 1.7366, SurplusIndex = 0.3219, mean U = 2.2358
+  R_max = 5.590 kpc,  R_outer_start (0.5 R_max) = 2.795 kpc
+  R_core ≈ 3.140 kpc,  R_turnover ≈ 4.890 kpc
+  Saved figure to sparc_figs/UGC04325.png
+
+=== Analyzing UGC04483 ===
+✔ Using file: UGC04483_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 1.9737, SurplusIndex = 0.3744, mean U = 1.2003
+  R_max = 1.210 kpc,  R_outer_start (0.5 R_max) = 0.605 kpc
+  R_core ≈ 0.650 kpc,  R_turnover ≈ 1.050 kpc
+  Saved figure to sparc_figs/UGC04483.png
+
+=== Analyzing UGC04499 ===
+✔ Using file: UGC04499_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 1.6974, SurplusIndex = 0.3832, mean U = 1.0837
+  R_max = 8.180 kpc,  R_outer_start (0.5 R_max) = 4.090 kpc
+  R_core ≈ 5.910 kpc,  R_turnover ≈ 8.180 kpc
+  Saved figure to sparc_figs/UGC04499.png
+
+=== Analyzing UGC05005 ===
+✔ Using file: UGC05005_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 3.4650, SurplusIndex = 0.4108, mean U = 1.6110
+  R_max = 28.610 kpc,  R_outer_start (0.5 R_max) = 14.305 kpc
+  R_core ≈ 14.070 kpc,  R_turnover ≈ 22.720 kpc
+  Saved figure to sparc_figs/UGC05005.png
+
+=== Analyzing UGC05253 ===
+✔ Using file: UGC05253_rotmod.dat
+  Raw shape: (73, 8)
+  CurlIndex = 1.8684, SurplusIndex = 0.2418, mean U = 0.0423
+  R_max = 53.290 kpc,  R_outer_start (0.5 R_max) = 26.645 kpc
+  R_core ≈ 1.205 kpc,  R_turnover ≈ 3.550 kpc
+  Saved figure to sparc_figs/UGC05253.png
+
+=== Analyzing UGC05414 ===
+✔ Using file: UGC05414_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 1.2258, SurplusIndex = 0.2828, mean U = 0.6517
+  R_max = 4.110 kpc,  R_outer_start (0.5 R_max) = 2.055 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 4.110 kpc
+  Saved figure to sparc_figs/UGC05414.png
+
+=== Analyzing UGC05716 ===
+✔ Using file: UGC05716_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 4.5169, SurplusIndex = 0.5258, mean U = 3.4231
+  R_max = 12.370 kpc,  R_outer_start (0.5 R_max) = 6.185 kpc
+  R_core ≈ 8.770 kpc,  R_turnover ≈ 12.370 kpc
+  Saved figure to sparc_figs/UGC05716.png
+
+=== Analyzing UGC05721 ===
+✔ Using file: UGC05721_rotmod.dat
+  Raw shape: (23, 8)
+  CurlIndex = 5.3564, SurplusIndex = 0.4256, mean U = 2.9947
+  R_max = 6.740 kpc,  R_outer_start (0.5 R_max) = 3.370 kpc
+  R_core ≈ 0.720 kpc,  R_turnover ≈ 1.890 kpc
+  Saved figure to sparc_figs/UGC05721.png
+
+=== Analyzing UGC05750 ===
+✔ Using file: UGC05750_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 2.5387, SurplusIndex = 0.4422, mean U = 1.1312
+  R_max = 22.850 kpc,  R_outer_start (0.5 R_max) = 11.425 kpc
+  R_core ≈ 10.430 kpc,  R_turnover ≈ 22.850 kpc
+  Saved figure to sparc_figs/UGC05750.png
+
+=== Analyzing UGC05764 ===
+✔ Using file: UGC05764_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 4.3823, SurplusIndex = 0.5583, mean U = 5.9099
+  R_max = 3.620 kpc,  R_outer_start (0.5 R_max) = 1.810 kpc
+  R_core ≈ 1.630 kpc,  R_turnover ≈ 2.540 kpc
+  Saved figure to sparc_figs/UGC05764.png
+
+=== Analyzing UGC05829 ===
+✔ Using file: UGC05829_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 1.8363, SurplusIndex = 0.4722, mean U = 2.3017
+  R_max = 6.910 kpc,  R_outer_start (0.5 R_max) = 3.455 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 6.910 kpc
+  Saved figure to sparc_figs/UGC05829.png
+
+=== Analyzing UGC05918 ===
+✔ Using file: UGC05918_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 2.6241, SurplusIndex = 0.5283, mean U = 3.3586
+  R_max = 4.460 kpc,  R_outer_start (0.5 R_max) = 2.230 kpc
+  R_core ≈ 3.065 kpc,  R_turnover ≈ 4.460 kpc
+  Saved figure to sparc_figs/UGC05918.png
+
+=== Analyzing UGC05986 ===
+✔ Using file: UGC05986_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 2.4313, SurplusIndex = 0.4214, mean U = 1.4520
+  R_max = 9.410 kpc,  R_outer_start (0.5 R_max) = 4.705 kpc
+  R_core ≈ 4.705 kpc,  R_turnover ≈ 5.650 kpc
+  Saved figure to sparc_figs/UGC05986.png
+
+=== Analyzing UGC05999 ===
+✔ Using file: UGC05999_rotmod.dat
+  Raw shape: (5, 8)
+  CurlIndex = 2.4522, SurplusIndex = 0.4020, mean U = 1.8710
+  R_max = 16.220 kpc,  R_outer_start (0.5 R_max) = 8.110 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 16.220 kpc
+  Saved figure to sparc_figs/UGC05999.png
+
+=== Analyzing UGC06399 ===
+✔ Using file: UGC06399_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 2.2470, SurplusIndex = 0.4401, mean U = 1.5659
+  R_max = 7.850 kpc,  R_outer_start (0.5 R_max) = 3.925 kpc
+  R_core ≈ 5.675 kpc,  R_turnover ≈ 7.850 kpc
+  Saved figure to sparc_figs/UGC06399.png
+
+=== Analyzing UGC06446 ===
+✔ Using file: UGC06446_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 3.0900, SurplusIndex = 0.4730, mean U = 2.9717
+  R_max = 10.220 kpc,  R_outer_start (0.5 R_max) = 5.110 kpc
+  R_core ≈ 5.520 kpc,  R_turnover ≈ 8.280 kpc
+  Saved figure to sparc_figs/UGC06446.png
+
+=== Analyzing UGC06614 ===
+✔ Using file: UGC06614_rotmod.dat
+  Raw shape: (13, 8)
+  CurlIndex = 3.4458, SurplusIndex = 0.3445, mean U = 0.5060
+  R_max = 64.590 kpc,  R_outer_start (0.5 R_max) = 32.295 kpc
+  R_core ≈ 6.205 kpc,  R_turnover ≈ 47.380 kpc
+  Saved figure to sparc_figs/UGC06614.png
+
+=== Analyzing UGC06628 ===
+✔ Using file: UGC06628_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 0.4702, SurplusIndex = 0.0000, mean U = -0.2289
+  R_max = 7.690 kpc,  R_outer_start (0.5 R_max) = 3.845 kpc
+  R_core ≈ 6.045 kpc,  R_turnover ≈ 5.500 kpc
+  Saved figure to sparc_figs/UGC06628.png
+
+=== Analyzing UGC06667 ===
+✔ Using file: UGC06667_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 5.0597, SurplusIndex = 0.5721, mean U = 8.7484
+  R_max = 7.850 kpc,  R_outer_start (0.5 R_max) = 3.925 kpc
+  R_core ≈ 4.805 kpc,  R_turnover ≈ 7.850 kpc
+  Saved figure to sparc_figs/UGC06667.png
+
+=== Analyzing UGC06786 ===
+✔ Using file: UGC06786_rotmod.dat
+  Raw shape: (45, 8)
+  CurlIndex = 3.0861, SurplusIndex = 0.3574, mean U = 0.6489
+  R_max = 34.050 kpc,  R_outer_start (0.5 R_max) = 17.025 kpc
+  R_core ≈ 0.570 kpc,  R_turnover ≈ 12.780 kpc
+  Saved figure to sparc_figs/UGC06786.png
+
+=== Analyzing UGC06787 ===
+✔ Using file: UGC06787_rotmod.dat
+  Raw shape: (71, 8)
+  CurlIndex = 4.2095, SurplusIndex = 0.3712, mean U = 0.5026
+  R_max = 37.190 kpc,  R_outer_start (0.5 R_max) = 18.595 kpc
+  R_core ≈ 0.530 kpc,  R_turnover ≈ 0.590 kpc
+  Saved figure to sparc_figs/UGC06787.png
+
+=== Analyzing UGC06818 ===
+✔ Using file: UGC06818_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 2.5633, SurplusIndex = 0.4950, mean U = 0.7822
+  R_max = 6.980 kpc,  R_outer_start (0.5 R_max) = 3.490 kpc
+  R_core ≈ 5.675 kpc,  R_turnover ≈ 6.980 kpc
+  Saved figure to sparc_figs/UGC06818.png
+
+=== Analyzing UGC06917 ===
+✔ Using file: UGC06917_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 1.7134, SurplusIndex = 0.3967, mean U = 1.0495
+  R_max = 10.470 kpc,  R_outer_start (0.5 R_max) = 5.235 kpc
+  R_core ≈ 5.675 kpc,  R_turnover ≈ 10.470 kpc
+  Saved figure to sparc_figs/UGC06917.png
+
+=== Analyzing UGC06923 ===
+✔ Using file: UGC06923_rotmod.dat
+  Raw shape: (6, 8)
+  CurlIndex = 1.0868, SurplusIndex = 0.2751, mean U = 0.3529
+  R_max = 5.160 kpc,  R_outer_start (0.5 R_max) = 2.580 kpc
+  R_core ≈ 4.095 kpc,  R_turnover ≈ 5.160 kpc
+  Saved figure to sparc_figs/UGC06923.png
+
+=== Analyzing UGC06930 ===
+✔ Using file: UGC06930_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 1.5207, SurplusIndex = 0.3319, mean U = 1.0656
+  R_max = 16.610 kpc,  R_outer_start (0.5 R_max) = 8.305 kpc
+  R_core ≈ 11.330 kpc,  R_turnover ≈ 12.190 kpc
+  Saved figure to sparc_figs/UGC06930.png
+
+=== Analyzing UGC06973 ===
+✔ Using file: UGC06973_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 4.5228, SurplusIndex = 0.0006, mean U = -0.3808
+  R_max = 7.850 kpc,  R_outer_start (0.5 R_max) = 3.925 kpc
+  R_core ≈ 3.055 kpc,  R_turnover ≈ 7.850 kpc
+  Saved figure to sparc_figs/UGC06973.png
+
+=== Analyzing UGC06983 ===
+✔ Using file: UGC06983_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 2.9590, SurplusIndex = 0.4341, mean U = 1.8261
+  R_max = 15.680 kpc,  R_outer_start (0.5 R_max) = 7.840 kpc
+  R_core ≈ 8.285 kpc,  R_turnover ≈ 10.470 kpc
+  Saved figure to sparc_figs/UGC06983.png
+
+=== Analyzing UGC07089 ===
+✔ Using file: UGC07089_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 1.3422, SurplusIndex = 0.2956, mean U = 0.5348
+  R_max = 9.160 kpc,  R_outer_start (0.5 R_max) = 4.580 kpc
+  R_core ≈ 6.765 kpc,  R_turnover ≈ 9.160 kpc
+  Saved figure to sparc_figs/UGC07089.png
+
+=== Analyzing UGC07125 ===
+✔ Using file: UGC07125_rotmod.dat
+  Raw shape: (13, 8)
+  CurlIndex = 1.0383, SurplusIndex = 0.2842, mean U = 0.6718
+  R_max = 18.680 kpc,  R_outer_start (0.5 R_max) = 9.340 kpc
+  R_core ≈ 12.235 kpc,  R_turnover ≈ 13.000 kpc
+  Saved figure to sparc_figs/UGC07125.png
+
+=== Analyzing UGC07151 ===
+✔ Using file: UGC07151_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 0.9072, SurplusIndex = 0.2777, mean U = 0.6302
+  R_max = 5.500 kpc,  R_outer_start (0.5 R_max) = 2.750 kpc
+  R_core ≈ 1.750 kpc,  R_turnover ≈ 5.500 kpc
+  Saved figure to sparc_figs/UGC07151.png
+
+=== Analyzing UGC07232 ===
+✔ Using file: UGC07232_rotmod.dat
+  Raw shape: (4, 8)
+  CurlIndex = 1.6335, SurplusIndex = 0.3526, mean U = 0.5671
+  R_max = 0.820 kpc,  R_outer_start (0.5 R_max) = 0.410 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 0.820 kpc
+  Saved figure to sparc_figs/UGC07232.png
+
+=== Analyzing UGC07261 ===
+✔ Using file: UGC07261_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 1.9868, SurplusIndex = 0.3382, mean U = 1.2294
+  R_max = 6.670 kpc,  R_outer_start (0.5 R_max) = 3.335 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 6.670 kpc
+  Saved figure to sparc_figs/UGC07261.png
+
+=== Analyzing UGC07323 ===
+✔ Using file: UGC07323_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 0.5877, SurplusIndex = 0.2488, mean U = 0.2878
+  R_max = 5.820 kpc,  R_outer_start (0.5 R_max) = 2.910 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 5.820 kpc
+  Saved figure to sparc_figs/UGC07323.png
+
+=== Analyzing UGC07399 ===
+✔ Using file: UGC07399_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 6.3005, SurplusIndex = 0.5478, mean U = 4.0322
+  R_max = 6.130 kpc,  R_outer_start (0.5 R_max) = 3.065 kpc
+  R_core ≈ 2.760 kpc,  R_turnover ≈ 6.130 kpc
+  Saved figure to sparc_figs/UGC07399.png
+
+=== Analyzing UGC07524 ===
+✔ Using file: UGC07524_rotmod.dat
+  Raw shape: (31, 8)
+  CurlIndex = 1.7184, SurplusIndex = 0.4467, mean U = 1.7476
+  R_max = 10.690 kpc,  R_outer_start (0.5 R_max) = 5.345 kpc
+  R_core ≈ 4.650 kpc,  R_turnover ≈ 10.350 kpc
+  Saved figure to sparc_figs/UGC07524.png
+
+=== Analyzing UGC07559 ===
+✔ Using file: UGC07559_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 1.1963, SurplusIndex = 0.3630, mean U = 0.6046
+  R_max = 2.530 kpc,  R_outer_start (0.5 R_max) = 1.265 kpc
+  R_core ≈ 1.985 kpc,  R_turnover ≈ 2.530 kpc
+  Saved figure to sparc_figs/UGC07559.png
+
+=== Analyzing UGC07577 ===
+✔ Using file: UGC07577_rotmod.dat
+  Raw shape: (9, 8)
+  CurlIndex = 0.5183, SurplusIndex = 0.0528, mean U = -0.1471
+  R_max = 1.690 kpc,  R_outer_start (0.5 R_max) = 0.845 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 1.690 kpc
+  Saved figure to sparc_figs/UGC07577.png
+
+=== Analyzing UGC07603 ===
+✔ Using file: UGC07603_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 4.8716, SurplusIndex = 0.4440, mean U = 2.2604
+  R_max = 4.110 kpc,  R_outer_start (0.5 R_max) = 2.055 kpc
+  R_core ≈ 2.220 kpc,  R_turnover ≈ 4.110 kpc
+  Saved figure to sparc_figs/UGC07603.png
+
+=== Analyzing UGC07608 ===
+✔ Using file: UGC07608_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 4.9094, SurplusIndex = 0.5213, mean U = 4.3468
+  R_max = 4.780 kpc,  R_outer_start (0.5 R_max) = 2.390 kpc
+  R_core ≈ 4.480 kpc,  R_turnover ≈ 4.780 kpc
+  Saved figure to sparc_figs/UGC07608.png
+
+=== Analyzing UGC07690 ===
+✔ Using file: UGC07690_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 1.4337, SurplusIndex = 0.2266, mean U = 0.6344
+  R_max = 4.130 kpc,  R_outer_start (0.5 R_max) = 2.065 kpc
+  R_core ≈ 1.475 kpc,  R_turnover ≈ 1.770 kpc
+  Saved figure to sparc_figs/UGC07690.png
+
+=== Analyzing UGC07866 ===
+✔ Using file: UGC07866_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 1.2276, SurplusIndex = 0.3298, mean U = 0.9179
+  R_max = 2.320 kpc,  R_outer_start (0.5 R_max) = 1.160 kpc
+  R_core ≈ nan kpc,  R_turnover ≈ 2.320 kpc
+  Saved figure to sparc_figs/UGC07866.png
+
+=== Analyzing UGC08286 ===
+✔ Using file: UGC08286_rotmod.dat
+  Raw shape: (17, 8)
+  CurlIndex = 3.8183, SurplusIndex = 0.4569, mean U = 2.7390
+  R_max = 8.040 kpc,  R_outer_start (0.5 R_max) = 4.020 kpc
+  R_core ≈ 2.135 kpc,  R_turnover ≈ 8.040 kpc
+  Saved figure to sparc_figs/UGC08286.png
+
+=== Analyzing UGC08490 ===
+✔ Using file: UGC08490_rotmod.dat
+  Raw shape: (30, 8)
+  CurlIndex = 4.7443, SurplusIndex = 0.4516, mean U = 3.1454
+  R_max = 10.150 kpc,  R_outer_start (0.5 R_max) = 5.075 kpc
+  R_core ≈ 1.860 kpc,  R_turnover ≈ 5.750 kpc
+  Saved figure to sparc_figs/UGC08490.png
+
+=== Analyzing UGC08550 ===
+✔ Using file: UGC08550_rotmod.dat
+  Raw shape: (11, 8)
+  CurlIndex = 3.7434, SurplusIndex = 0.4694, mean U = 2.7707
+  R_max = 5.360 kpc,  R_outer_start (0.5 R_max) = 2.680 kpc
+  R_core ≈ 1.710 kpc,  R_turnover ≈ 4.390 kpc
+  Saved figure to sparc_figs/UGC08550.png
+
+=== Analyzing UGC08699 ===
+✔ Using file: UGC08699_rotmod.dat
+  Raw shape: (41, 8)
+  CurlIndex = 2.4068, SurplusIndex = 0.2698, mean U = 0.2730
+  R_max = 25.700 kpc,  R_outer_start (0.5 R_max) = 12.850 kpc
+  R_core ≈ 1.415 kpc,  R_turnover ≈ 1.520 kpc
+  Saved figure to sparc_figs/UGC08699.png
+
+=== Analyzing UGC08837 ===
+✔ Using file: UGC08837_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 0.9928, SurplusIndex = 0.3197, mean U = 0.2649
+  R_max = 4.200 kpc,  R_outer_start (0.5 R_max) = 2.100 kpc
+  R_core ≈ 3.940 kpc,  R_turnover ≈ 4.200 kpc
+  Saved figure to sparc_figs/UGC08837.png
+
+=== Analyzing UGC09037 ===
+✔ Using file: UGC09037_rotmod.dat
+  Raw shape: (22, 8)
+  CurlIndex = 1.1449, SurplusIndex = 0.1438, mean U = -0.0099
+  R_max = 27.960 kpc,  R_outer_start (0.5 R_max) = 13.980 kpc
+  R_core ≈ 6.685 kpc,  R_turnover ≈ 19.460 kpc
+  Saved figure to sparc_figs/UGC09037.png
+
+=== Analyzing UGC09133 ===
+✔ Using file: UGC09133_rotmod.dat
+  Raw shape: (68, 8)
+  CurlIndex = 2.8899, SurplusIndex = 0.2780, mean U = 0.4690
+  R_max = 108.310 kpc,  R_outer_start (0.5 R_max) = 54.155 kpc
+  R_core ≈ 0.475 kpc,  R_turnover ≈ 9.780 kpc
+  Saved figure to sparc_figs/UGC09133.png
+
+=== Analyzing UGC09992 ===
+✔ Using file: UGC09992_rotmod.dat
+  Raw shape: (5, 8)
+  CurlIndex = 0.3913, SurplusIndex = 0.1597, mean U = 0.5114
+  R_max = 3.890 kpc,  R_outer_start (0.5 R_max) = 1.945 kpc
+  R_core ≈ 2.730 kpc,  R_turnover ≈ 3.890 kpc
+  Saved figure to sparc_figs/UGC09992.png
+
+=== Analyzing UGC10310 ===
+✔ Using file: UGC10310_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 1.3124, SurplusIndex = 0.3390, mean U = 1.3745
+  R_max = 7.740 kpc,  R_outer_start (0.5 R_max) = 3.870 kpc
+  R_core ≈ 4.970 kpc,  R_turnover ≈ 7.740 kpc
+  Saved figure to sparc_figs/UGC10310.png
+
+=== Analyzing UGC11455 ===
+✔ Using file: UGC11455_rotmod.dat
+  Raw shape: (36, 8)
+  CurlIndex = 1.0351, SurplusIndex = 0.0804, mean U = -0.1718
+  R_max = 41.930 kpc,  R_outer_start (0.5 R_max) = 20.965 kpc
+  R_core ≈ 5.220 kpc,  R_turnover ≈ 16.630 kpc
+  Saved figure to sparc_figs/UGC11455.png
+
+=== Analyzing UGC11557 ===
+✔ Using file: UGC11557_rotmod.dat
+  Raw shape: (12, 8)
+  CurlIndex = 0.5099, SurplusIndex = 0.0000, mean U = -0.4760
+  R_max = 10.560 kpc,  R_outer_start (0.5 R_max) = 5.280 kpc
+  R_core ≈ 6.490 kpc,  R_turnover ≈ 5.940 kpc
+  Saved figure to sparc_figs/UGC11557.png
+
+=== Analyzing UGC11820 ===
+✔ Using file: UGC11820_rotmod.dat
+  Raw shape: (10, 8)
+  CurlIndex = 3.3644, SurplusIndex = 0.4996, mean U = 2.2379
+  R_max = 15.820 kpc,  R_outer_start (0.5 R_max) = 7.910 kpc
+  R_core ≈ 3.135 kpc,  R_turnover ≈ 15.820 kpc
+  Saved figure to sparc_figs/UGC11820.png
+
+=== Analyzing UGC11914 ===
+✔ Using file: UGC11914_rotmod.dat
+  Raw shape: (65, 8)
+  CurlIndex = 0.5568, SurplusIndex = 0.0420, mean U = -0.1051
+  R_max = 9.830 kpc,  R_outer_start (0.5 R_max) = 4.915 kpc
+  R_core ≈ 1.255 kpc,  R_turnover ≈ 9.830 kpc
+  Saved figure to sparc_figs/UGC11914.png
+
+=== Analyzing UGC12506 ===
+✔ Using file: UGC12506_rotmod.dat
+  Raw shape: (31, 8)
+  CurlIndex = 1.8158, SurplusIndex = 0.3145, mean U = 1.5841
+  R_max = 49.990 kpc,  R_outer_start (0.5 R_max) = 24.995 kpc
+  R_core ≈ 4.920 kpc,  R_turnover ≈ 23.770 kpc
+  Saved figure to sparc_figs/UGC12506.png
+
+=== Analyzing UGC12632 ===
+✔ Using file: UGC12632_rotmod.dat
+  Raw shape: (15, 8)
+  CurlIndex = 2.1757, SurplusIndex = 0.4481, mean U = 2.4038
+  R_max = 10.660 kpc,  R_outer_start (0.5 R_max) = 5.330 kpc
+  R_core ≈ 4.615 kpc,  R_turnover ≈ 9.250 kpc
+  Saved figure to sparc_figs/UGC12632.png
+
+=== Analyzing UGC12732 ===
+✔ Using file: UGC12732_rotmod.dat
+  Raw shape: (16, 8)
+  CurlIndex = 3.0478, SurplusIndex = 0.4556, mean U = 2.8009
+  R_max = 15.400 kpc,  R_outer_start (0.5 R_max) = 7.700 kpc
+  R_core ≈ 6.240 kpc,  R_turnover ≈ 15.400 kpc
+  Saved figure to sparc_figs/UGC12732.png
+
+=== Analyzing UGCA281 ===
+✔ Using file: UGCA281_rotmod.dat
+  Raw shape: (7, 8)
+  CurlIndex = 1.2573, SurplusIndex = 0.3556, mean U = 1.0008
+  R_max = 1.080 kpc,  R_outer_start (0.5 R_max) = 0.540 kpc
+  R_core ≈ 0.660 kpc,  R_turnover ≈ 1.080 kpc
+  Saved figure to sparc_figs/UGCA281.png
+
+=== Analyzing UGCA442 ===
+✔ Using file: UGCA442_rotmod.dat
+  Raw shape: (8, 8)
+  CurlIndex = 5.6932, SurplusIndex = 0.4961, mean U = 3.7688
+  R_max = 6.330 kpc,  R_outer_start (0.5 R_max) = 3.165 kpc
+  R_core ≈ 4.220 kpc,  R_turnover ≈ 5.480 kpc
+  Saved figure to sparc_figs/UGCA442.png
+
+=== Analyzing UGCA444 ===
+✔ Using file: UGCA444_rotmod.dat
+  Raw shape: (36, 8)
+  CurlIndex = 5.6723, SurplusIndex = 0.5645, mean U = 3.7362
+  R_max = 2.620 kpc,  R_outer_start (0.5 R_max) = 1.310 kpc
+  R_core ≈ 0.725 kpc,  R_turnover ≈ 2.620 kpc
+  Saved figure to sparc_figs/UGCA444.png
+
+✔ Wrote index summary to sparc_indices.txt
+✔ Saved 175 figures to sparc_figs
