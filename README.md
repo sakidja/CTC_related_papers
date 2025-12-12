@@ -48,7 +48,7 @@ The standard Big Bang picture assumes that spacetime already exists at the momen
 
 ## 4. Nonlocal Torque Coupling in Disk Galaxies: A Continuum Framework for Interpreting Rotation Curves
 
-**Author:** Ridwan Sakidja, Armitha Dutta and Justus Lau (2025)
+**Authors:** Ridwan Sakidja, Armitha Dutta and Justus Lau (2025)
 
 **Summary:**
 Observed galactic rotation curves rise, bend, and remain flat at radii where a purely baryonic Newtonian potential predicts declining velocities. The conventional interpretation introduces non-luminous dark matter to supply the missing rotational support. Here we propose an alternative dynamical architecture based on rotational coherence transmission. In this framework the stellar disk is treated not as a set of mechanically isolated Keplerian annuli but as a continuum of energy-coupled shells capable of inheriting, transmitting, and eventually saturating rotational coherence from inner regions.
