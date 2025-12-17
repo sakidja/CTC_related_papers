@@ -59,5 +59,8 @@ From this premise we derive three scale-free, falsifiable observables, namely th
 
 👉 [SDL_PREPRINT_GALAXY_DYNAMICS_v1.pdf](SDL_PREPRINT_GALAXY_DYNAMICS_v1.pdf)
 
+**DOI:**  
+👉 https://doi.org/10.5281/zenodo.17873646
+
 
 
