@@ -68,7 +68,65 @@ From this premise we derive three scale-free, falsifiable observables, namely th
 **Summary:**
 Symmetry is often treated as an exact microscopic property, even in systems with disorder and fluctuations. In realistic physical systems, however, individual configurations are generically distorted by noise or randomness. Here we examine how symmetry survives disorder by distinguishing between microscopic symmetry and symmetry realized in expectation values. Using numerical stress tests based on paraxial wave propagation, we study one-, two-, and three-dimensional disordered media with statistically symmetric but locally asymmetric refractive-index fluctuations. Individual realizations show strong, order-unity symmetry violation. In contrast, symmetry is robustly recovered in ensemble-averaged intensities, even in the presence of strong disorder. This behavior persists in genuinely three-dimensional random media with disorder varying along the propagation direction, demonstrating that symmetry recovery is not an artifact of reduced dimensionality. These results show that symmetry in disordered wave systems is a statistically stabilized property of observables rather than a microscopic constraint.
 
+**Contents**
 
+The repository contains four Jupyter notebooks, corresponding to increasing dimensionality and diagnostic depth:
+
+**1. STRESS_TEST_1D.ipynb**
+
+One-dimensional symmetry stress test
+> Paraxial wave propagation with a single transverse coordinate
+> Statistically symmetric, correlated refractive-index disorder
+> No parity enforcement on disorder, grid, or propagation
+
+Computes:
+> Microstate-level symmetry deviation
+> Distribution of symmetry deviation across realizations
+> Symmetry of ensemble-averaged intensity
+
+Purpose:
+Establishes that symmetry is highly fragile at the microscopic level in 1D, but recovers only after ensemble averaging.
+
+**2. STRESS_TEST_2D.ipynb**
+
+Two-dimensional transverse disorder
+> Full 2D transverse wave propagation
+> Same statistically symmetric disorder construction
+> No imposed spatial symmetrization
+
+Computes:
+> Single-shot asymmetric intensity patterns
+> Ensemble-averaged intensity ⟨I(x,y)⟩
+> π-rotated comparisons
+> Symmetry deviation metrics
+> Spatial variance map Var[I(x,y)]
+
+Purpose:
+Demonstrates partial self-averaging in two dimensions and shows that symmetry recovery is spatially genuine, not a numerical artifact.
+
+**3. STRESS_TEST_3D.ipynb**
+
+Three-dimensional disordered medium
+> Disorder varies in x, y, and along the propagation direction z
+> Longitudinal disorder correlations explicitly controlled
+
+Computes:
+> Symmetry deviation as a function of propagation distance
+> Microstate versus ensemble behavior
+> Robustness of expectation-value symmetry in 3D
+
+Purpose:
+Confirms that expectation-value symmetry survives in genuinely three-dimensional random media and is not an artifact of reduced dimensionality.
+
+**4. STRESS_TEST_3D_B.ipynb**
+
+Extended 3D diagnostics and parameter sweeps
+> Additional longitudinal correlation-length sweeps
+> Ensemble statistics (mean and variance across realizations)
+> Parametric stress tests beyond the main-text figures
+
+Purpose:
+Provides supplementary diagnostics supporting the main conclusions and figures in the Supplementary Material.
 
 
 
