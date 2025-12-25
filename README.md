@@ -75,14 +75,14 @@ The repository contains four Jupyter notebooks, corresponding to increasing dime
 **1. STRESS_TEST_1D.ipynb**
 
 One-dimensional symmetry stress test
-> Paraxial wave propagation with a single transverse coordinate
-> Statistically symmetric, correlated refractive-index disorder
-> No parity enforcement on disorder, grid, or propagation
+> Paraxial wave propagation with a single transverse coordinate,
+> Statistically symmetric, correlated refractive-index disorder,
+> No parity enforcement on disorder, grid, or propagation.
 
 Computes:
-> Microstate-level symmetry deviation
-> Distribution of symmetry deviation across realizations
-> Symmetry of ensemble-averaged intensity
+> Microstate-level symmetry deviation,
+> Distribution of symmetry deviation across realizations,
+> Symmetry of ensemble-averaged intensity.
 
 Purpose:
 Establishes that symmetry is highly fragile at the microscopic level in 1D, but recovers only after ensemble averaging.
@@ -90,16 +90,16 @@ Establishes that symmetry is highly fragile at the microscopic level in 1D, but 
 **2. STRESS_TEST_2D.ipynb**
 
 Two-dimensional transverse disorder
-> Full 2D transverse wave propagation
-> Same statistically symmetric disorder construction
-> No imposed spatial symmetrization
+> Full 2D transverse wave propagation,
+> Same statistically symmetric disorder construction,
+> No imposed spatial symmetrization.
 
 Computes:
-> Single-shot asymmetric intensity patterns
-> Ensemble-averaged intensity ⟨I(x,y)⟩
-> π-rotated comparisons
-> Symmetry deviation metrics
-> Spatial variance map Var[I(x,y)]
+> Single-shot asymmetric intensity patterns,
+> Ensemble-averaged intensity ⟨I(x,y)⟩,
+> π-rotated comparisons,
+> Symmetry deviation metrics,
+> Spatial variance map Var[I(x,y)].
 
 Purpose:
 Demonstrates partial self-averaging in two dimensions and shows that symmetry recovery is spatially genuine, not a numerical artifact.
@@ -107,13 +107,13 @@ Demonstrates partial self-averaging in two dimensions and shows that symmetry re
 **3. STRESS_TEST_3D.ipynb**
 
 Three-dimensional disordered medium
-> Disorder varies in x, y, and along the propagation direction z
-> Longitudinal disorder correlations explicitly controlled
+> Disorder varies in x, y, and along the propagation direction z,
+> Longitudinal disorder correlations explicitly controlled.
 
 Computes:
-> Symmetry deviation as a function of propagation distance
-> Microstate versus ensemble behavior
-> Robustness of expectation-value symmetry in 3D
+> Symmetry deviation as a function of propagation distance,
+> Microstate versus ensemble behavior,
+> Robustness of expectation-value symmetry in 3D.
 
 Purpose:
 Confirms that expectation-value symmetry survives in genuinely three-dimensional random media and is not an artifact of reduced dimensionality.
@@ -121,9 +121,9 @@ Confirms that expectation-value symmetry survives in genuinely three-dimensional
 **4. STRESS_TEST_3D_B.ipynb**
 
 Extended 3D diagnostics and parameter sweeps
-> Additional longitudinal correlation-length sweeps
-> Ensemble statistics (mean and variance across realizations)
-> Parametric stress tests beyond the main-text figures
+> Additional longitudinal correlation-length sweeps,
+> Ensemble statistics (mean and variance across realizations),
+> Parametric stress tests beyond the main-text figures.
 
 Purpose:
 Provides supplementary diagnostics supporting the main conclusions and figures in the Supplementary Material.
