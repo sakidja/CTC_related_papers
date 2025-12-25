@@ -70,7 +70,14 @@ Symmetry is often treated as an exact microscopic property, even in systems with
 
 **Contents**
 
-The repository contains four Jupyter notebooks, corresponding to increasing dimensionality and diagnostic depth:
+**Main Results Demonstrate**
+1. Individual realizations exhibit order-unity symmetry violation
+2. Ensemble-averaged observables recover symmetry robustly
+3. Increasing dimensionality increases statistical stability
+4. Disorder remains strong and active throughout propagation
+5. Symmetry is a statistical property of observables, not a microscopic guarantee
+
+The repository also contains four Jupyter notebooks, corresponding to increasing dimensionality and diagnostic depth:
 
 **1. STRESS_TEST_1D.ipynb**
 
