@@ -61,6 +61,13 @@ The standard Big Bang picture assumes that spacetime already exists at the momen
 Observed galactic rotation curves rise, bend, and remain flat at radii where a purely baryonic Newtonian potential predicts declining velocities. The conventional interpretation introduces non-luminous dark matter to supply the missing rotational support. Here we propose an alternative dynamical architecture based on rotational coherence transmission. In this framework the stellar disk is treated not as a set of mechanically isolated Keplerian annuli but as a continuum of energy-coupled shells capable of inheriting, transmitting, and eventually saturating rotational coherence from inner regions.
 From this premise we derive three scale-free, falsifiable observables, namely the Curl Index, the Fractional Uplift, and the Surplus Index, quantify torque inheritance, rotational energy surplus, and radial coherence export. These indices can be computed directly from observed rotation curves without invoking additional mass. Applying the framework to the full SPARC database, we find that galaxies cluster into three dynamical regimes predicted by the model. The structured scaling of outer rotation curves is incompatible with strictly local baryonic dynamics but follows naturally from nonlocal torque transport. This particular work concerns only the dynamical inference drawn from galactic rotation curves. The framework is therefore offered as a galactic-scale dynamical alternative to the enclosed-mass interpretation.
 
+## 5. How Symmetry Survives Disorder: An Expectation-Value Perspective
+
+**Authors:** Ridwan Sakidja
+
+**Summary:**
+Symmetry is often treated as an exact microscopic property, even in systems with disorder and fluctuations. In realistic physical systems, however, individual configurations are generically distorted by noise or randomness. Here we examine how symmetry survives disorder by distinguishing between microscopic symmetry and symmetry realized in expectation values. Using numerical stress tests based on paraxial wave propagation, we study one-, two-, and three-dimensional disordered media with statistically symmetric but locally asymmetric refractive-index fluctuations. Individual realizations show strong, order-unity symmetry violation. In contrast, symmetry is robustly recovered in ensemble-averaged intensities, even in the presence of strong disorder. This behavior persists in genuinely three-dimensional random media with disorder varying along the propagation direction, demonstrating that symmetry recovery is not an artifact of reduced dimensionality. These results show that symmetry in disordered wave systems is a statistically stabilized property of observables rather than a microscopic constraint.
+
 
 
 
