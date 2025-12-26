@@ -65,6 +65,9 @@ From this premise we derive three scale-free, falsifiable observables, namely th
 
 **Authors:** Ridwan Sakidja
 
+**DOI:**  
+👉 https://zenodo.org/records/18057598
+
 **Summary:**
 Symmetry is often treated as an exact microscopic property, even in systems with disorder and fluctuations. In realistic physical systems, however, individual configurations are generically distorted by noise or randomness. Here we examine how symmetry survives disorder by distinguishing between microscopic symmetry and symmetry realized in expectation values. Using numerical stress tests based on paraxial wave propagation, we study one-, two-, and three-dimensional disordered media with statistically symmetric but locally asymmetric refractive-index fluctuations. Individual realizations show strong, order-unity symmetry violation. In contrast, symmetry is robustly recovered in ensemble-averaged intensities, even in the presence of strong disorder. This behavior persists in genuinely three-dimensional random media with disorder varying along the propagation direction, demonstrating that symmetry recovery is not an artifact of reduced dimensionality. These results show that symmetry in disordered wave systems is a statistically stabilized property of observables rather than a microscopic constraint.
 
