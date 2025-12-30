@@ -138,7 +138,8 @@ Extended 3D diagnostics and parameter sweeps
 Purpose:
 Provides supplementary diagnostics supporting the main conclusions and figures in the Supplementary Material.
 
-## 5. The Bullet Cluster Revisited: Transport, Shocks, and Non-Equilibrium Structure
+
+## 6. The Bullet Cluster Revisited: Transport, Shocks, and Non-Equilibrium Structure
 
 **Authors:** Ridwan Sakidja
 
