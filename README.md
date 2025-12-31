@@ -63,7 +63,7 @@ From this premise we derive three scale-free, falsifiable observables, namely th
 
 ## 5. How Symmetry Survives Disorder: An Expectation-Value Perspective
 
-**Authors:** Ridwan Sakidja
+**Authors:** Ridwan Sakidja (2025)
 
 **DOI:**  
 👉 https://zenodo.org/records/18057598
@@ -141,7 +141,7 @@ Provides supplementary diagnostics supporting the main conclusions and figures i
 
 ## 6. The Bullet Cluster Revisited: Transport, Shocks, and Non-Equilibrium Structure
 
-**Authors:** Ridwan Sakidja
+**Authors:** Ridwan Sakidja (2025)
 
 **Summary:**
 The Bullet Cluster (1E 0657–558) is widely cited as decisive evidence for particle dark matter because weak-lensing mass peaks are offset from the X-ray–emitting gas and instead align with the collisionless galaxy component. This interpretation implicitly assumes that gravitational response must track local mass density even during a violent, dissipative merger. Here we present an alternative non-equilibrium interpretation within the Curvature–Transport Correspondence (CTC), in which curvature responds to the divergence of transport flux rather than to density alone. Using a simple and fully reproducible cartoon simulation, we show that merger-driven shocks naturally decouple density from coherent transport: the gas becomes dense and stalled, while collisionless components preserve ballistic motion. A nonlocal CTC lensing proxy constructed from ∇^2 Ψ=∇.J remains aligned with the collisionless component, reproducing the observed lensing–gas offset without invoking additional dark matter particles. This result clarifies the physical assumptions underlying the standard interpretation of the Bullet Cluster and highlights the role of non-equilibrium transport during cluster mergers.
