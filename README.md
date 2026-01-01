@@ -143,6 +143,9 @@ Provides supplementary diagnostics supporting the main conclusions and figures i
 
 **Authors:** Ridwan Sakidja (2025)
 
+**Download PDF:**  
+👉 [The Bullet Cluster Revisited.pdf](The Bullet Cluster Revisited.pdf)
+
 **DOI:**  
 👉 https://doi.org/10.5281/zenodo.18092526
 
