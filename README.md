@@ -156,6 +156,9 @@ The Bullet Cluster (1E 0657–558) is widely cited as decisive evidence for part
 
 **Author:** Ridwan Sakidja (2025)
 
+**DOI:**  
+👉 https://doi.org/10.5281/zenodo.18163537
+
 **Summary:**
 The acoustic peaks seen in the cosmic microwave background (CMB) are usually taken as evidence for dark matter, because dark matter helps keep gravitational potentials from decaying before recombination. In this work, we explore a different effective picture, in which the same stabilization comes from a finite stiffness of the vacuum itself, without adding new matter components. Using a minimal toy model, we show that a scale-dependent vacuum response can reproduce the main acoustic features of the CMB, including phase coherence, peak spacing, and temperature–polarization (TE) correlations that are normally attributed to dark matter. Our analysis focuses only on the acoustic range of multipoles and uses diagnostics defined directly in multipole space. We stress that this work does not propose a microscopic replacement for dark matter. Instead, it shows that CMB acoustic data mainly constrain whether gravitational potentials persist through the acoustic epoch, not what physical mechanism causes that persistence. Telling apart matter-based and vacuum-based stabilization therefore likely requires observations beyond the CMB alone.
 
