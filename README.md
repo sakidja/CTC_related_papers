@@ -63,7 +63,7 @@ From this premise we derive three scale-free, falsifiable observables, namely th
 
 ## 5. How Symmetry Survives Disorder: An Expectation-Value Perspective
 
-**Authors:** Ridwan Sakidja (2025)
+**Author:** Ridwan Sakidja (2025)
 
 **DOI:**  
 👉 https://zenodo.org/records/18057598
@@ -141,7 +141,7 @@ Provides supplementary diagnostics supporting the main conclusions and figures i
 
 ## 6. The Bullet Cluster Revisited: Transport, Shocks, and Non-Equilibrium Structure
 
-**Authors:** Ridwan Sakidja (2025)
+**Author:** Ridwan Sakidja (2025)
 
 **Download PDF:**  
 👉 [The_Bullet_Cluster_Revisited.pdf](The_Bullet_Cluster_Revisited.pdf) 
@@ -154,7 +154,7 @@ The Bullet Cluster (1E 0657–558) is widely cited as decisive evidence for part
 
 ## 7. Effective Vacuum Stiffness as an Alternative Description of Scalar Stabilization in the CMB Acoustic Regime
 
-**Authors:** Ridwan Sakidja (2025)
+**Author:** Ridwan Sakidja (2025)
 
 **Summary:**
 The acoustic peak structure of the cosmic microwave background (CMB) is usually interpreted as evidence for a non-baryonic dark matter component that stabilizes gravitational potentials before recombination. In this work, we explore an alternative effective description in which the same stabilization produced from a finite stiffness of the vacuum itself, without introducing additional matter degrees of freedom. Using a minimal phenomenological model, we show that a scale-dependent vacuum response can reproduce the phase coherence, peak spacing, and temperature–polarization (TE) correlations typically associated with dark-matter-supported acoustic oscillations. Our comparison focuses on the CMB acoustic window and employs both multipole-space diagnostics and flat-sky Gaussian realizations. We stress that this approach does not claim a microscopic replacement of dark matter but rather demonstrates that CMB acoustic observables primarily constrain the persistence of scalar gravitational potentials, not the physical mechanism responsible for that persistence. Distinguishing between matter-based and vacuum-based stabilization mechanisms likely requires observational probes beyond the CMB alone.
